@@ -1,29 +1,29 @@
 CACHE MANIFEST
-#ver:2017-12-6 16:04:21
+#ver:2017-12-6 16:45:41
 #plugin:4.8.4
 
 CACHE:
-/vonut/img/markcook.edc36088.png
-/vonut/img/motto.d8607d53.png
-/vonut/img/sphinx.53e2ed6e.png
-/vonut/img/vue-occupy.924016eb.png
-/vonut/js/0.85584bab.js
-/vonut/js/1.5a95f975.js
-/vonut/js/2.24cd47e5.js
-/vonut/js/3.aee3c88c.js
-/vonut/js/4.c0bbe773.js
-/vonut/js/5.df069991.js
-/vonut/js/6.43c41def.js
-/vonut/js/7.b8f212b5.js
-/vonut/js/8.28c4ec2e.js
-/vonut/js/9.07885ecb.js
-/vonut/js/10.40078e67.js
-/vonut/js/11.ef03a086.js
-/vonut/js/12.1fd2a8e6.js
-/vonut/js/app.ed6cc9fb.js
-/vonut/js/vendor.daef9d29.js
-/vonut/js/manifest.371f25a5.js
-/vonut/css/js/app.6eb2dd69.css
+/MyBlog/img/markcook.edc36088.png
+/MyBlog/img/motto.d8607d53.png
+/MyBlog/img/sphinx.53e2ed6e.png
+/MyBlog/img/vue-occupy.924016eb.png
+/MyBlog/js/0.85584bab.js
+/MyBlog/js/1.5a95f975.js
+/MyBlog/js/2.24cd47e5.js
+/MyBlog/js/3.aee3c88c.js
+/MyBlog/js/4.c0bbe773.js
+/MyBlog/js/5.df069991.js
+/MyBlog/js/6.43c41def.js
+/MyBlog/js/7.b8f212b5.js
+/MyBlog/js/8.28c4ec2e.js
+/MyBlog/js/9.07885ecb.js
+/MyBlog/js/10.40078e67.js
+/MyBlog/js/11.ef03a086.js
+/MyBlog/js/12.1fd2a8e6.js
+/MyBlog/js/app.953b931d.js
+/MyBlog/js/vendor.daef9d29.js
+/MyBlog/js/manifest.901a7fe5.js
+/MyBlog/css/js/app.6eb2dd69.css
 
 NETWORK:
 *
