@@ -25,7 +25,7 @@ export default {
   height: 40px;
   line-height: 40px;
   width: 100%;
-  background: #5E35B1;
+  background: #1a6b1fd4;
   padding: 0 15px;
   box-sizing: border-box;
   color: #fff;
