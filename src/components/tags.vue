@@ -95,7 +95,7 @@ export default {
       }
     }
     &-btn {
-      background: #e45649;
+      background: #E53935;
       border: none;
       width: 60px;
       height: 60px;
