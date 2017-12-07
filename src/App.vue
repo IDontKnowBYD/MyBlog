@@ -1,9 +1,9 @@
 <template>
-  <div id="vonut" class="vonut">
+  <div id="myBlog" class="blog">
     <navigator :showNav="showNav"></navigator>
-    <main class="vonut-main">
+    <main class="blog-main">
       <transition :name="transitionName">
-        <router-view class="vonut-main-view"></router-view>
+        <router-view class="blog-main-view"></router-view>
       </transition>
     </main>
     <tags></tags>
@@ -50,7 +50,7 @@ export default {
 @import '~assets/markdown.less';
 @import '~assets/transition.less';
 
-.vonut {
+.blog {
   position: relative;
   min-height: 100%;
   overflow: scroll;
@@ -65,7 +65,7 @@ export default {
     &-view {
       transition: all ease .5s;
     }
-    &> section {
+    &> undefined {
       background: #fff;
       width: 100%;
       margin-top: 15px;
