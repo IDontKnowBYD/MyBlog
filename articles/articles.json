@@ -1,13 +1,12 @@
 {
-  "markcook.md": {
-    "title": "Markcook",
+  "markdown基本语法学习.md": {
+    "title": "Markdown基本语法学习",
     "tags": [
-      "javascript",
-      "vue"
+      "markdown"
     ],
-    "date": "2016-06-01",
-    "desc": "Markcook, a smart and beautiful markdown editor",
-    "cover": "markcook.png"
+    "date": "2017-12-7",
+    "desc": "学习一下基本的markdown",
+    "cover": "markdown.jpeg"
   },
   "motto.md": {
     "title": "Motto",

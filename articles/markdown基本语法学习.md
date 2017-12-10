@@ -3,7 +3,7 @@
   "tags": ["markdown"],
   "date": "2017-12-7",
   "desc": "学习一下基本的markdown",
-  "cover": "markdown.png"
+  "cover": "markdown.jpeg"
 }
 
 # 标题 
@@ -50,3 +50,5 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```
+
+ps: 多记，多练

@@ -1,30 +1,27 @@
 CACHE MANIFEST
-#ver:2017-12-7 20:02:51
+#ver:2017-12-10 09:40:35
 #plugin:4.8.4
 
 CACHE:
-/MyBlog/img/markcook.edc36088.png
 /MyBlog/img/motto.d8607d53.png
 /MyBlog/img/sphinx.53e2ed6e.png
 /MyBlog/img/vue-occupy.924016eb.png
-/MyBlog/js/0.f9e5b207.js
-/MyBlog/js/1.13e9f042.js
-/MyBlog/js/2.0560cd2f.js
-/MyBlog/js/3.1931708d.js
-/MyBlog/js/4.9513733f.js
-/MyBlog/js/5.806a9f45.js
-/MyBlog/js/6.38242d33.js
-/MyBlog/js/7.6e2c301c.js
-/MyBlog/js/8.2cd87a66.js
-/MyBlog/js/9.612e833a.js
-/MyBlog/js/10.64abca8c.js
-/MyBlog/js/11.25147eac.js
-/MyBlog/js/12.6ddf948d.js
-/MyBlog/js/13.f6ef75cf.js
-/MyBlog/js/14.8d239cf0.js
-/MyBlog/js/app.6f7fc107.js
-/MyBlog/js/vendor.7e8b7767.js
-/MyBlog/js/manifest.ea1deb64.js
+/MyBlog/js/0.97389c0c.js
+/MyBlog/js/1.2e430153.js
+/MyBlog/js/2.f468e56e.js
+/MyBlog/js/3.7540a81e.js
+/MyBlog/js/4.be501f28.js
+/MyBlog/js/5.b13b869d.js
+/MyBlog/js/6.24ad3a40.js
+/MyBlog/js/7.b8f212b5.js
+/MyBlog/js/8.28c4ec2e.js
+/MyBlog/js/9.07885ecb.js
+/MyBlog/js/10.1dd47dcb.js
+/MyBlog/js/11.ef03a086.js
+/MyBlog/js/12.8256d94c.js
+/MyBlog/js/app.840f8a1b.js
+/MyBlog/js/vendor.daef9d29.js
+/MyBlog/js/manifest.58ddfcd0.js
 /MyBlog/css/js/app.bc335a82.css
 
 NETWORK:
