@@ -65,7 +65,7 @@ export default {
     &-view {
       transition: all ease .5s;
     }
-    &> undefined {
+    &> section {
       background: #fff;
       width: 100%;
       margin-top: 15px;
